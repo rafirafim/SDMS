@@ -1,0 +1,41 @@
+.box
+{
+    width: 100%;
+    background-color:#efeddf;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+.sel
+{
+    width: 50%;
+    height: 80%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.bar
+{
+    width: 80%;
+    height: 45px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    border: none;
+    height: 70%;
+}
+
+.txt
+{
+    width: auto;
+}
